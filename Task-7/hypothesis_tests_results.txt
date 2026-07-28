@@ -1,0 +1,22 @@
+==================================================
+HYPOTHESIS TESTING SUMMARY REPORT
+==================================================
+
+1. ONE-SAMPLE T-TEST (Mean Revenue vs $100,000 Target)
+--------------------------------------------------
+t-statistic : 2.3612
+p-value     : 2.0172e-02
+Conclusion  : Reject H0 (Significantly different from target)
+
+2. TWO-SAMPLE T-TEST (Monthly Charges: Churn vs Non-Churn)
+--------------------------------------------------
+t-statistic : nan
+p-value     : nan
+Conclusion  : Fail to reject H0
+
+3. ONE-WAY ANOVA (Sales across Business Regions)
+--------------------------------------------------
+F-statistic : 2.1644
+p-value     : 0.0972
+Conclusion  : Fail to reject H0 (Uniform performance)
+==================================================
